@@ -45,3 +45,11 @@
 <p align="left">I am using a shitty HP notebook. Here are the shitty specs:<br>I5 1035G1<br>Nvidia GeForce MX330 (aka gt1030)<br>8x2GB DDR4 3200MHz<br>2TB M.2 Lexar NM620 NVMe<br>Realtek Wifi card (RTL8821CE)</p>
 
 ###
+
+<h2 align="left">For retarded people (like royna)</h2>
+
+###
+
+<p align="left">My commits are authored, nothing is kanged.</p>
+
+###
